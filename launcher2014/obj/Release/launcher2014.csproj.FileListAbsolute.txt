@@ -1,0 +1,9 @@
+c:\users\tact\documents\visual studio 2013\Projects\launcher2014\launcher2014\bin\Release\launcher2014.exe.config
+c:\users\tact\documents\visual studio 2013\Projects\launcher2014\launcher2014\bin\Release\launcher2014.exe
+c:\users\tact\documents\visual studio 2013\Projects\launcher2014\launcher2014\bin\Release\launcher2014.pdb
+c:\users\tact\documents\visual studio 2013\Projects\launcher2014\launcher2014\obj\Release\launcher2014.Properties.Resources.resources
+c:\users\tact\documents\visual studio 2013\Projects\launcher2014\launcher2014\obj\Release\launcher2014.csproj.GenerateResource.Cache
+c:\users\tact\documents\visual studio 2013\Projects\launcher2014\launcher2014\obj\Release\launcher2014.exe
+c:\users\tact\documents\visual studio 2013\Projects\launcher2014\launcher2014\obj\Release\launcher2014.pdb
+c:\users\tact\documents\visual studio 2013\Projects\launcher2014\launcher2014\obj\Release\launcher2014.csprojResolveAssemblyReference.cache
+C:\Users\TACT\documents\visual studio 2013\Projects\launcher2014\launcher2014\obj\Release\launcher2014.Form1.resources
