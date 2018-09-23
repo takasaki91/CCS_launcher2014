@@ -1,5 +1,7 @@
 # CCS_launcher2014
 千葉大電子計算機研究会(以下CCS)で2014年度新歓で使用した、各サークルメンバーが作成したゲームのランチャーソフトです。
+![title](https://github.com/takasaki91/CCS_launcher2014/blob/master/ss1.png)
+![動作中](https://github.com/takasaki91/CCS_launcher2014/blob/master/ss2.png)
 ## 使い方
 \bin\Rereaseの中にsoftwaresというフォルダを作成し、その中に各ゲームを入れてください。
 その際にreadme.txtをutf-8の形式で入れてください。
